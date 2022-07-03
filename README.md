@@ -13,7 +13,7 @@ The most common problems that people face and Meme generator web application hel
 ### Solution
 
 - I created a Meme Generator web application using API that will help you to engage the customer.
-- You can target the potential customers by sending related Memes to the product and customer interest.
+- You can target the potential customers by related Memes to the product and customer interest.
 - This will going to help to increase the engagement of people in your product and tends to buy your product.
 - This is marketing  using memes generator web application to build buisness and increase the sales of the product.
 
